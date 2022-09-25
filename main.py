@@ -1,4 +1,4 @@
-x = 1
+xaaa:w:: = 1
 y = 2
 z = 3
 test = x - z
